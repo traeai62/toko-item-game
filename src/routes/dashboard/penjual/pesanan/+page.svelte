@@ -1,0 +1,5 @@
+<section>
+  <h1 class="text-2xl font-semibold">Pesanan</h1>
+  <div class="mt-4">Kelola pesanan.</div>
+</section>
+

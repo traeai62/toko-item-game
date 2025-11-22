@@ -1,0 +1,1 @@
+import{f as n,a as o}from"../chunks/BgXJfJmC.js";import"../chunks/CNcrnJlI.js";var e=n('<section class="max-w-3xl mx-auto px-4 py-10"><h1 class="text-2xl font-semibold">Syarat dan Ketentuan</h1> <p class="mt-3">Ketentuan layanan.</p></section>');function m(a){var t=e();o(a,t)}export{m as component};

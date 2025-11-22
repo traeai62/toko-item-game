@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/dashboard/penjual/profil-toko/+page.svelte";

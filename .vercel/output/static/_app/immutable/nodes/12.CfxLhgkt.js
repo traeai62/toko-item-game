@@ -1,0 +1,1 @@
+import{f as o,a as s}from"../chunks/BgXJfJmC.js";import"../chunks/CNcrnJlI.js";var n=o('<section><h1 class="text-2xl font-semibold">Transactions</h1> <div class="mt-4">Pantau transaksi.</div></section>');function e(t){var a=n();s(t,a)}export{e as component};
