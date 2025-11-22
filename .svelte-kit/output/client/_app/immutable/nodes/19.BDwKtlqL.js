@@ -1,1 +1,0 @@
-import{f as t,a as n}from"../chunks/BgXJfJmC.js";import"../chunks/CNcrnJlI.js";var s=t('<section><h1 class="text-2xl font-semibold">Pesanan</h1> <div class="mt-4">Kelola pesanan.</div></section>');function m(o){var a=s();n(o,a)}export{m as component};

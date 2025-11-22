@@ -1,0 +1,25 @@
+# SvelteKit build output
+.svelte-kit/
+.vercel/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
